@@ -1,0 +1,4 @@
+  SalesID       ,itemId            , Name          , Description   , Rate          , Quantity      , Price         , Total
+32,S01,rice,a very good food,2.0,20.0,2.0,0.8
+32,S02,beans,Very good for the health,2.0,20.0,2.0,0.8
+32,S04,Oil,Very good for the health,4.0,60.0,2.0,4.8
