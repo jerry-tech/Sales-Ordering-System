@@ -5,11 +5,6 @@
  */
 package orderinginvoicingsystem;
 
-/**
- *
- * @author OLUWASEGUN JOSHUA
- *
- */
 //Import package
 import java.awt.*;
 import java.io.*;
